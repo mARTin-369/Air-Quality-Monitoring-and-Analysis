@@ -8,9 +8,9 @@
 #include <MQ135.h>
 
 #define FIREBASE_HOST "ioe-aqm-default-rtdb.firebaseio.com"      
-#define FIREBASE_AUTH "SnlPoBGQZOSvp7Rf1AOQT6dnQKzbFlfql6EHeQFD"            
-#define WIFI_SSID "joiiy"                                  
-#define WIFI_PASSWORD "joiiy123"            
+#define FIREBASE_AUTH "secret_key"            
+#define WIFI_SSID "ssid"                                  
+#define WIFI_PASSWORD "password"            
  
 #define DHTPIN D2                                            // Digital pin connected to DHT11
 #define DHTTYPE DHT11                                        // Initialize dht type as DHT 11
