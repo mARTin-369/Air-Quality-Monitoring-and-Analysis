@@ -1,2 +1,2 @@
-#define FIREBASE_HOST "YOUR_DB_URL"      
-#define FIREBASE_AUTH "YOUR_AUTH_KEY"
+#define FIREBASE_HOST ""      
+#define FIREBASE_AUTH ""
